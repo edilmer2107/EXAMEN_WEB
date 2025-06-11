@@ -10,6 +10,7 @@
     
     <p><a href="GTesis.php">Gestion Tesis</a></p>
     <p><a href="GTesista.php">Gestion Tesista</a></p>
+    <p><a href="https://github.com/edilmer2107/EXAMEN_WEB.git">Gestion Tesista</a></p>
     
 </body>
 </html>
