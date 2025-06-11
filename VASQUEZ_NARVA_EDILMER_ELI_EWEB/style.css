@@ -1,0 +1,23 @@
+/* Reset y base */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f7fa;
+    padding: 20px;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color:rgb(0, 14, 14);
+    margin-bottom: 30px;
+}
+
+p{
+    text-align: center;
+}
