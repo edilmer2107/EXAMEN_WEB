@@ -18,7 +18,7 @@ class Conexion {
 
     public function getConexion() {
         return $this->conexion;
-        echo "Conexión";
+        echo "Conexión yeeees";
     }
 
     public function __destruct() {

@@ -44,9 +44,7 @@
                     echo "<td>". $fila['nombres']. "</td>";
                     echo "<td>". $fila['dni']. "</td>";
                     echo "<td>". $fila['escuprof']. "</td>";
-                    echo "<td>
-                            <a href='editar.php?id={$fila['id']}'>Editar</a>
-                            <a href='eliminar.php?id={$fila['id']}'>Eliminar</a>
+                    echo "<td><a href='EliminarTesista.php?id={$fila['id']}'>Eliminar</a>
                           </td>";
                     echo "</tr>";
                 }

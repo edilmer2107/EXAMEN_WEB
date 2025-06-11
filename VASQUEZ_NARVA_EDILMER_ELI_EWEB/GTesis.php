@@ -48,8 +48,7 @@
                     echo "<td>". $fila['fecha_inicio']. "</td>";
                     echo "<td>". $fila['fecha_fin']. "</td>";
                     echo "<td>
-                            <a href='editar.php?id={$fila['id']}'>Editar</a>
-                            <a href='eliminar.php?id={$fila['id']}'>Eliminar</a>
+                            <a href='EliminarTesis.php?id={$fila['id']}'>Eliminar</a>
                           </td>";
                     echo "</tr>";
                 }
